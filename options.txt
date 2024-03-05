@@ -1,0 +1,4 @@
+vitesse global : 1
+chance d'apparition des bonus : 1
+/!\ ne pas toucher la suite se serait du cheat, merci :)
+meilleur score : 0
