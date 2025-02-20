@@ -2,6 +2,8 @@ Prérequis : Python 3.10.9 ( compatibilité pygame)
 
 Version 1.0
 
+Je poste un petit jeu Space Invaders que j'avais fait en terminale pour les cours (sa remonte mdr), mon premier jeu Pygame, soyez indulgents ! x)
+
 ----------------------------------------------------- 
 
 
